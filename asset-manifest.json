@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SimpleQuiz/static/css/main.073c9b0a.css",
+    "main.js": "/SimpleQuiz/static/js/main.a28fb8da.js",
+    "static/js/787.c1112931.chunk.js": "/SimpleQuiz/static/js/787.c1112931.chunk.js",
+    "index.html": "/SimpleQuiz/index.html",
+    "main.073c9b0a.css.map": "/SimpleQuiz/static/css/main.073c9b0a.css.map",
+    "main.a28fb8da.js.map": "/SimpleQuiz/static/js/main.a28fb8da.js.map",
+    "787.c1112931.chunk.js.map": "/SimpleQuiz/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a28fb8da.js"
+  ]
+}
