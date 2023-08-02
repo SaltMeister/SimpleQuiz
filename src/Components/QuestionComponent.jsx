@@ -26,9 +26,7 @@ export default function QuestionComponent({question, answerArray, correctIndex})
             <input type="radio" name="question" item={key} onChange={handleForm}/>
             <label for={value}>{value}</label>          
           </div>
-
         )
-
       })}
       </form>
     </div>
